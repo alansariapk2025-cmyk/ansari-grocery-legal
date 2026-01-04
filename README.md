@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy - Ansari Traders Grocery</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --primary: #004AAD;
+      --text: #111827;
+      --muted: #4B5563;
+      --bg: #F9FAFB;
+      --card: #FFFFFF;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .page {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .logo-circle {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      background: var(--primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 12px;
+      color: #fff;
+      font-weight: 800;
+      font-size: 26px;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin: 0 0 4px;
+      color: var(--primary);
+    }
+
+    .subtitle {
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 12px;
+      padding: 20px 18px;
+      box-shadow: 0 6px 18px rgba(15,23,42,0.06);
+      border: 1px solid #E5E7EB;
+    }
+
+    h2 {
+      font-size: 20px;
+      margin-top: 24px;
+      margin-bottom: 8px;
+      color: var(--primary);
+    }
+
+    h3 {
+      font-size: 16px;
+      margin-top: 18px;
+      margin-bottom: 6px;
+      color: var(--text);
+    }
+
+    p {
+      margin: 6px 0;
+      font-size: 14px;
+    }
+
+    ul {
+      margin: 4px 0 8px 20px;
+      padding: 0;
+      font-size: 14px;
+    }
+
+    li {
+      margin: 2px 0;
+    }
+
+    .muted {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .section-meta {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 18px;
+    }
+
+    a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (min-width: 768px) {
+      .card {
+        padding: 26px 28px;
+      }
+      h1 {
+        font-size: 32px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="logo-circle">A</div>
+      <h1>Privacy Policy</h1>
+      <div class="subtitle">Ansari Traders Grocery</div>
+      <div class="section-meta">Last updated: 4 January 2026</div>
+    </header>
+
+    <div class="card">
+      <p>
+        This Privacy Policy describes how Ansari Traders Grocery (“we”, “us”, or “our”) collects,
+        uses, and protects your information when you use our mobile application (the “App”) and
+        related services.
+      </p>
+
+      <h2>1. Information We Collect</h2>
+
+      <h3>1.1 Information you provide directly</h3>
+      <p>We collect the information that you provide when you use the App, including:</p>
+      <ul>
+        <li><strong>Account information:</strong> your name, email address, phone number and other profile details.</li>
+        <li>
+          <strong>Google sign-in information:</strong> if you sign in with Google (via our identity
+          provider Clerk), we receive your name, email address and Google account ID as allowed by
+          your Google account settings.
+        </li>
+        <li>
+          <strong>Delivery details:</strong> delivery address, contact number and optional delivery
+          notes for the rider.
+        </li>
+        <li>
+          <strong>Order information:</strong> items ordered, quantities, prices, discounts, delivery
+          fee, payment method, and timestamps.
+        </li>
+        <li>
+          <strong>Support and feedback:</strong> messages, ratings, or other information you send
+          when you contact us for help or provide feedback, including any attachments (such as
+          photos of damaged items).
+        </li>
+      </ul>
+
+      <h3>1.2 Information collected automatically</h3>
+      <p>When you use the App, we may automatically collect:</p>
+      <ul>
+        <li>
+          <strong>Device information:</strong> device model, operating system version, language,
+          app version and unique device identifiers.
+        </li>
+        <li>
+          <strong>Usage data:</strong> how you interact with the App (for example, screens viewed,
+          buttons tapped and features used). This helps us improve performance and usability.
+        </li>
+        <li>
+          <strong>Log information:</strong> IP address, timestamps, crash logs and diagnostic data
+          used for security, troubleshooting and analytics.
+        </li>
+        <li>
+          <strong>Approximate location:</strong> if you grant location permission, we may use your
+          location to suggest delivery areas, calculate delivery availability or pre-fill address
+          fields. Location access is optional and can be managed from your device settings.
+        </li>
+      </ul>
+
+      <p class="muted">
+        We do not access your contacts, photos or other personal files on your device unless you
+        intentionally choose to upload something (for example, a photo when reporting a damaged
+        product).
+      </p>
+
+      <h2>2. How We Use Your Information</h2>
+
+      <p>We use the collected information for the following purposes:</p>
+      <ul>
+        <li>To create and manage your account and preferences.</li>
+        <li>To process your orders, manage your cart and deliver the products you purchase.</li>
+        <li>To show your order history, payment history and order tracking details.</li>
+        <li>To send notifications about order status, delivery updates and offers (where allowed by your device settings).</li>
+        <li>To respond to your questions, complaints and support requests.</li>
+        <li>To improve and personalize the App, including user experience, layout and recommendations.</li>
+        <li>To monitor, analyze and understand usage of the App to fix bugs and enhance reliability.</li>
+        <li>To prevent fraud, abuse or security incidents and to enforce our terms and policies.</li>
+        <li>To comply with legal obligations and accounting or tax requirements.</li>
+      </ul>
+
+      <h2>3. Legal Basis (where applicable)</h2>
+      <p>
+        Depending on your location, we may process your personal data based on one or more of the
+        following legal bases:
+      </p>
+      <ul>
+        <li>Your consent (for example, to receive marketing notifications where required by law).</li>
+        <li>Performance of a contract (for example, to deliver your orders and provide customer support).</li>
+        <li>Compliance with legal obligations.</li>
+        <li>Our legitimate interests (for example, improving the App and preventing fraud), provided those interests are not overridden by your rights.</li>
+      </ul>
+
+      <h2>4. Sharing of Information</h2>
+
+      <p>We do not sell your personal data.</p>
+      <p>We may share your information with the following categories of recipients:</p>
+
+      <ul>
+        <li>
+          <strong>Delivery partners and riders:</strong> we share your name, address, phone number
+          and order details required to pick up and deliver your order.
+        </li>
+        <li>
+          <strong>Payment service providers:</strong> if you pay via digital methods (e.g. bank
+          transfer, wallet or other gateways), relevant transaction details may be shared with the
+          payment provider to complete and verify the payment.
+        </li>
+        <li>
+          <strong>Technology and infrastructure providers:</strong> we use third-party services
+          such as Clerk (for authentication), Firebase / Google Cloud (for database, push
+          notifications and analytics) and similar services that process data on our behalf.
+          These providers are contractually required to protect your data and use it only as
+          instructed by us.
+        </li>
+        <li>
+          <strong>Professional advisors:</strong> such as accountants, auditors or legal advisors,
+          when reasonably necessary for business operations or legal compliance.
+        </li>
+        <li>
+          <strong>Authorities and law enforcement:</strong> when we are required to do so by
+          applicable law or in response to valid legal requests (for example, a court order or
+          government demand).
+        </li>
+        <li>
+          <strong>Business transfers:</strong> if we are involved in a merger, acquisition or sale
+          of assets, your information may be transferred as part of that transaction. We will take
+          reasonable steps to ensure your privacy rights are protected.
+        </li>
+      </ul>
+
+      <h2>5. Data Storage and Security</h2>
+
+      <ul>
+        <li>Your data is stored using reputable cloud providers (for example, Firebase / Google Cloud).</li>
+        <li>We use technical and organizational measures to protect your information against unauthorized access, alteration, disclosure or destruction.</li>
+        <li>
+          These measures include encryption in transit (HTTPS), access controls, authentication and
+          logging of important operations.
+        </li>
+        <li>
+          Despite our efforts, no method of transmission or storage is completely secure. We cannot
+          guarantee absolute security of your information.
+        </li>
+      </ul>
+
+      <h2>6. Data Retention</h2>
+
+      <p>
+        We keep your personal data only for as long as necessary to fulfill the purposes described
+        in this policy, unless a longer retention period is required or permitted by law.
+      </p>
+      <ul>
+        <li>Order and transaction records may be kept for accounting and tax purposes for the legally required period.</li>
+        <li>If you request account deletion, we will remove or anonymize personal data that is no longer needed, subject to legal retention requirements.</li>
+      </ul>
+
+      <h2>7. Your Rights and Choices</h2>
+
+      <p>Depending on your location and applicable law, you may have the right to:</p>
+      <ul>
+        <li>Access the personal information we hold about you.</li>
+        <li>Request correction of inaccurate or incomplete information.</li>
+        <li>Request deletion of your data, subject to legal or operational requirements.</li>
+        <li>Object to or restrict certain types of processing.</li>
+        <li>Withdraw consent where processing is based on your consent (for example, marketing messages).</li>
+      </ul>
+
+      <p>
+        You can manage much of your information directly in the App (for example, update your profile or sign out).
+        To exercise other rights, please contact us using the details in the “Contact Us” section below.
+      </p>
+
+      <h2>8. Cookies and Similar Technologies</h2>
+
+      <p>
+        The App may use local storage, device identifiers and similar technologies to:
+      </p>
+      <ul>
+        <li>Keep you signed in and maintain your session.</li>
+        <li>Remember your cart, preferences and language settings.</li>
+        <li>Perform analytics and measure performance.</li>
+      </ul>
+
+      <p>
+        You can control permission settings (such as notifications or location) through your device
+        settings. Disabling certain permissions may limit some App features.
+      </p>
+
+      <h2>9. Children’s Privacy</h2>
+
+      <p>
+        Our App is intended for use by adults. We do not knowingly collect personal information from
+        children under the age of 13. If you believe that a child has provided us with personal
+        information, please contact us so that we can take appropriate action, including deletion of
+        such information where required.
+      </p>
+
+      <h2>10. Third‑Party Links and Services</h2>
+
+      <p>
+        The App may contain links to third‑party websites, apps or services (for example, payment or
+        delivery partners). We are not responsible for the privacy practices of those third parties.
+        We encourage you to review their privacy policies when you visit their services.
+      </p>
+
+      <h2>11. Changes to This Privacy Policy</h2>
+
+      <p>
+        We may update this Privacy Policy from time to time. When we do, we will revise the “Last
+        updated” date at the top of this page. Significant changes may also be communicated inside
+        the App (for example, via a notice or message).
+      </p>
+      <p>
+        Your continued use of the App after any changes become effective means you accept the
+        updated Privacy Policy.
+      </p>
+
+      <h2>12. Contact Us</h2>
+
+      <p>
+        If you have any questions, requests or complaints about this Privacy Policy or how we handle
+        your personal data, please contact us:
+      </p>
+
+      <p>
+        <strong>Ansari Traders Grocery</strong><br />
+        Email: <a href="mailto:support@ansaritraders.com">support@ansaritraders.com</a><br />
+        Address: Landhi Town, Karachi, Pakistan
+      </p>
+
+      <p class="muted">
+        Please include your name, contact details and (if relevant) your order number so that we can
+        respond to your request as quickly as possible.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
